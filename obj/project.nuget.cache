@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaBFHxgsNiGfXuCY0QApPvpU6jXMpCmf1bp4iRZiAWg1lt90+S+eS8R8hcLqoPLaPJqqXXrEZxQEI+i7VKNrBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akhona\\OneDrive\\Documents\\Functional Programming\\Practical 5\\Practical 5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akhona\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
